@@ -10,41 +10,6 @@ This Python script generates strong, customized passwords that incorporate the u
 - **Multiple Password Generation**: The script can generate multiple passwords (default is 10) in a single run.
 - **Password Storage**: The generated passwords are stored in a file named `passlist.txt` for future reference.
 
-## Mind Map
-
-+-----------------------------------+
-|    Custom Strong Password Generator    |
-+-----------------------------------+
-             |
-+------------+------------+
-|                         |
-+--------+--------+       |
-|        |        |       |
-| User Input      | Character Sets
-|        |        |       |
-+--------+--------+       |
-|        |        |       |
-| Name   | Number |       +-----------+------------+
-|        |        |                  |            |
-+--------+--------+        +---------+-+  +-------+-------+
-                           | Uppercase |  | Lowercase    |
-                           +-----------+  +-------+-------+
-                                               |
-                           +-----------+  +-------+-------+
-                           | Digits    |  | Symbols      |
-                           +-----------+  +-------+-------+
-                                               |
-                           +-----------+  +-------+-------+
-                           | Password  |  | Password     |
-                           | Length    |  | Amount       |
-                           +-----------+  +-------+-------+
-                                               |
-                                       +-------+-------+
-                                       | Password      |
-                                       | Storage       |
-                                       +---------------+
-
-
 ## Getting Started
 
 1. Clone the repository or download the `main.py` file.
