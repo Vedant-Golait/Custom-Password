@@ -44,6 +44,7 @@ This Python script generates strong, customized passwords that incorporate the u
                                        | Storage       |
                                        +---------------+
 
+
 ## Getting Started
 
 1. Clone the repository or download the `main.py` file.
